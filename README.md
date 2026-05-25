@@ -1,16 +1,37 @@
-## Hi there 👋
+# Aryan Barakzai
 
-<!--
-**aryanbarak/aryanbarak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fachinformatiker für Anwendungsentwicklung (IHK)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Development
+- React & TypeScript
+- Cloudflare & Supabase
+- AI & Automation Projects
+- Building DailyFlow Platform
+
+## Main Projects
+
+### DailyFlow
+Modern productivity and learning platform.
+
+### FIAE Tutor
+Desktop application for algorithm and exam training.
+
+### AI Worker
+Cloudflare Worker API for AI integration.
+
+## Tech Stack
+
+- React
+- TypeScript
+- JavaScript
+- Python
+- Supabase
+- Cloudflare
+- GitHub Actions
+
+## Links
+
+- Portfolio: https://barakzai.cloud
+- GitHub: https://github.com/aryanbarak
