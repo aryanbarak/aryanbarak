@@ -15,6 +15,9 @@ Fachinformatiker für Anwendungsentwicklung (IHK)
 ### DailyFlow
 Modern productivity and learning platform.
 
+- Live Demo: https://barakzai.cloud
+- Repository: https://github.com/aryanbarak/dailyflow
+
 ### FIAE Tutor
 Desktop application for algorithm and exam training.
 
@@ -30,6 +33,17 @@ Cloudflare Worker API for AI integration.
 - Supabase
 - Cloudflare
 - GitHub Actions
+
+
+## Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
+
 
 ## Links
 
