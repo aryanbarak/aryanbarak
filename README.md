@@ -59,13 +59,18 @@ Currently finalizing my IHK certification (GA2 completed 29.04.2026) and activel
 
 > Modern all-in-one platform for tasks, finance, family and AI learning
 
+**🌐 Live: [barakzai.cloud](https://barakzai.cloud) · 💻 [Repository](https://github.com/aryanbarak/dailyflow)**
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-dashboard.png" alt="DailyFlow Dashboard" width="700" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-dashboard.png" alt="Dashboard" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-tasks.png" alt="Tasks" width="49%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-finance.png" alt="Finance" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-ai.png" alt="AI Learning" width="49%" />
 </p>
 
-- 🌐 Live: [barakzai.cloud](https://barakzai.cloud)
-- 💻 Repo: [github.com/aryanbarak/dailyflow](https://github.com/aryanbarak/dailyflow)
-- **Stack:** React · TypeScript · Supabase · Cloudflare · Vite · Tailwind CSS
+**Stack:** React · TypeScript · Supabase · Cloudflare · Vite · Tailwind CSS
 
 ---
 
