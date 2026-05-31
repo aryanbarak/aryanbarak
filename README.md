@@ -8,7 +8,7 @@ Based in Ahrensburg, Germany 🇩🇪
 ## 🚀 About Me
 
 I'm a software developer with a focus on web development, AI integration and building real-world productivity applications.  
-Currently finalizing my IHK certification (GA2 completed 29.04.2026) and actively looking for a position as **Junior Developer** or **Application Support**.
+Currently finalizing my IHK certification (GA2 completed 29.04.2026) and actively looking for a position as **Junior Full-Stack Developer** or **Application Developer**.
 
 - 🔭 Currently building: **[DailyFlow](https://barakzai.cloud)** — a productivity & learning platform
 - 🌱 Learning: Advanced React patterns, TypeScript, Supabase
