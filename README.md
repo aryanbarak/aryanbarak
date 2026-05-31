@@ -63,7 +63,7 @@ Currently finalizing my IHK certification (GA2 completed 29.04.2026) and activel
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-dashboard.png" alt="Dashboard" width="49%" />
-  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-tasks.png" alt="Tasks" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-tutor.png" alt="Tutor" width="49%" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-finance.png" alt="Finance" width="49%" />
