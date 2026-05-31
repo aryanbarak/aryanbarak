@@ -5,10 +5,23 @@ Based in Ahrensburg, Germany 🇩🇪
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanbarak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbarak&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbarak&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 I'm a software developer with a focus on web development, AI integration and building real-world productivity applications.  
-Currently finalizing my IHK certification (GA2 completed 29.04.2026) and actively looking for a position as **Junior Full-Stack Developer** or **Application Developer**.
+Currently finalizing my IHK certification (GA2 completed 29.04.2026) and actively looking for a position as **Junior Developer** or **Application Support**.
 
 - 🔭 Currently building: **[DailyFlow](https://barakzai.cloud)** — a productivity & learning platform
 - 🌱 Learning: Advanced React patterns, TypeScript, Supabase
@@ -42,12 +55,17 @@ Currently finalizing my IHK certification (GA2 completed 29.04.2026) and activel
 
 ## 📦 Main Projects
 
-### 🔵 DailyFlow
-> Modern productivity and learning platform
+### 🔵 DailyFlow — Productivity & Learning Platform
+
+> Modern all-in-one platform for tasks, finance, family and AI learning
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-dashboard.png" alt="DailyFlow Dashboard" width="700" />
+</p>
 
 - 🌐 Live: [barakzai.cloud](https://barakzai.cloud)
 - 💻 Repo: [github.com/aryanbarak/dailyflow](https://github.com/aryanbarak/dailyflow)
-- **Stack:** React · TypeScript · Supabase · Cloudflare
+- **Stack:** React · TypeScript · Supabase · Cloudflare · Vite · Tailwind CSS
 
 ---
 
@@ -83,4 +101,4 @@ Currently finalizing my IHK certification (GA2 completed 29.04.2026) and activel
 
 ---
 
-*221+ contributions in the last year · 22 repositories · Open for opportunities in Germany 🇩🇪*
+*222+ contributions in the last year · 22 repositories · Open for opportunities in Germany 🇩🇪*
