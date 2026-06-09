@@ -1,11 +1,59 @@
+<div align="center">
+
 # Hi, I'm Aryan Barakzai 👋
 
-**Fachinformatiker für Anwendungsentwicklung (IHK)**  
-Based in Ahrensburg, Germany 🇩🇪
+**Fachinformatiker Anwendungsentwicklung (IHK)**  
+Ahrensburg, Germany 🇩🇪
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-barakzai.cloud-DAA520?style=flat&logo=google-chrome&logoColor=white)](https://barakzai.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--barakzai-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/aryan-barakzai)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## About Me
+
+Fachinformatiker Anwendungsentwicklung (IHK) focused on building full-stack applications, AI-powered productivity systems, Cloudflare-based serverless backends and desktop software.
+
+My main project is **DailyFlow** — a production app I built from scratch and use daily: React + TypeScript frontend, Supabase backend, Cloudflare Workers for AI, and Gemini for document intelligence and weekly briefings.
+
+Previous experience includes:
+
+- IT Officer at the British Embassy in Kabul
+- Owner of a Computer Training Center
+- Network Administration and IT Support
+
+- 🔭 Building: **[DailyFlow](https://barakzai.cloud)** — productivity & AI platform
+- 📍 Location: Ahrensburg, Germany
+- 💼 Open to: Junior Software Developer · Frontend Developer · Full-Stack Developer · Application Support Engineer
+
+---
+
+## Tech Stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+**Backend & Database**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Infrastructure & AI**  
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanbarak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
@@ -18,94 +66,86 @@ Based in Ahrensburg, Germany 🇩🇪
 
 ---
 
-## 🚀 About Me
+## Projects
 
-Certified Fachinformatiker für Anwendungsentwicklung (IHK) and Software Developer based in Germany.
-Passionate about building modern web applications using React, TypeScript, Supabase, Cloudflare, and AI technologies. Experienced in developing real-world software projects, including productivity platforms, AI-powered automation tools, and desktop applications.
-Currently building DailyFlow, a full-stack productivity and learning platform focused on task management, document intelligence, and AI integration.
-Open to opportunities as a Junior Software Developer, Frontend Developer, Full-Stack Developer, Application Support Engineer, or IT Support Specialist.
+### DailyFlow — Productivity & AI Platform
+DailyFlow is my flagship project and serves as a personal operating system that combines productivity, document intelligence, AI memory and life management in a single platform.
 
-- 🔭 Currently building: **[DailyFlow](https://barakzai.cloud)** — a productivity & learning platform
-- 🌱 Learning: Advanced React patterns, TypeScript, Supabase
-- 💼 Open to: Junior Developer · Application Support · IT-Administration
-- 📍 Location: Ahrensburg, Germany
+> Full-stack app for tasks, finance, documents, and AI learning
 
----
+**🌐 [barakzai.cloud](https://barakzai.cloud) · 💻 [Repository](https://github.com/aryanbarak/dailyflow)**
 
-## 🛠️ Tech Stack
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend & Datenbanken**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-**Tools & Infrastruktur**  
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-
----
-
-## 📦 Main Projects
-
-### 🔵 DailyFlow — Productivity & Learning Platform
-
-> Modern all-in-one platform for tasks, finance, family and AI learning
-
-**🌐 Live: [barakzai.cloud](https://barakzai.cloud) · 💻 [Repository](https://github.com/aryanbarak/dailyflow)**
+**Key Features:** Tasks & Calendar · Habits & Journal · Finance Tracking · OCR & Document Intelligence · AI Summaries · AI Memory · Weekly Briefings · Flashcards · Family Management · Photos & Music Libraries
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-dashboard.png" alt="Dashboard" width="49%" />
-  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-tutor.png" alt="Tutor" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/screenshots/dashboard.png" alt="Dashboard" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/screenshots/weekly-briefing.png" alt="Weekly Briefing" width="49%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-finance.png" alt="Finance" width="49%" />
-  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/public/screenshot-ai.png" alt="AI Learning" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/screenshots/ocr.png" alt="OCR" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/screenshots/tasks.png" alt="Tasks" width="49%" />
 </p>
 
-**Stack:** React · TypeScript · Supabase · Cloudflare · Vite · Tailwind CSS
+**Stack:** React · TypeScript · Supabase · Cloudflare Workers · Gemini AI
 
 ---
 
-### 🟣 FIAE Tutor Desktop
-> Desktop application for algorithm and IHK exam training
+### FIAE Tutor Desktop
 
-- 💻 Repo: [github.com/aryanbarak/fiae-tutor-desktop](https://github.com/aryanbarak/fiae-tutor-desktop)
-- **Stack:** React · TypeScript · Tauri
+> Offline desktop app for IHK FIAE exam preparation — algorithms, desk-check, AP2 exam bank
+
+**💻 [Repository](https://github.com/aryanbarak/fiae-tutor-desktop)**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryanbarak/fiae-tutor-desktop/main/screenshots/dashboard.png" alt="Dashboard" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/fiae-tutor-desktop/main/screenshots/Variants.png" alt="Variants" width="49%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryanbarak/fiae-tutor-desktop/main/screenshots/practice-page.png" alt="Practice" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/fiae-tutor-desktop/main/screenshots/topic-registry.png" alt="Topic Registry" width="49%" />
+</p>
+
+**Stack:** React · TypeScript · Tauri · Rust
 
 ---
 
-### 🟠 AI Agent
-> Python-based AI automation agent with API integration
+### dailyflow-ai-worker
 
-- 💻 Repo: [github.com/aryanbarak/ai-agent](https://github.com/aryanbarak/ai-agent)
-- **Stack:** Python · APIs
+> Cloudflare Worker — secure Gemini AI proxy with rate limiting and JWT auth
+
+**💻 [Repository](https://github.com/aryanbarak/dailyflow-ai-worker)**  
+**Stack:** Cloudflare Workers · JavaScript · Gemini API
 
 ---
 
-## 📜 Certifications
+### dailyflow-tutor-api-worker
 
-- ✅ EXIN Agile Scrum Foundation (2023)
+> Static content API for algorithm tutor — pseudocode, exam questions, DE/FA bilingual
+
+**💻 [Repository](https://github.com/aryanbarak/dailyflow-tutor-api-worker)**  
+**Stack:** Cloudflare Workers · JavaScript
+
+---
+
+## Certifications
+
+- ✅ Fachinformatiker Anwendungsentwicklung — IHK Hamburg (2026)
 - ✅ EXIN Agile Scrum Master (2023)
+- ✅ EXIN Agile Scrum Foundation (2023)
 - ✅ TELC Deutsch B2 (2022)
 
 ---
 
-## 🌐 Links
+## Current Focus
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-barakzai.cloud-blue?style=flat&logo=google-chrome)](https://barakzai.cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--barakzai-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/aryan-barakzai)
-[![GitHub](https://img.shields.io/badge/GitHub-aryanbarak-181717?style=flat&logo=github)](https://github.com/aryanbarak)
+- AI-powered productivity systems
+- Cloudflare Workers & Edge Architecture
+- Document Intelligence & OCR
+- React + TypeScript Applications
+- Personal AI Assistant Development
 
 ---
 
-*222+ contributions in the last year · 22 repositories · Open for opportunities in Germany 🇩🇪*
+<div align="center">
+<sub>Open for opportunities in Germany 🇩🇪</sub>
+</div>
