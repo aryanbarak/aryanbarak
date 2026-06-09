@@ -69,13 +69,13 @@ Previous experience includes:
 ## Projects
 
 ### DailyFlow — Productivity & AI Platform
-DailyFlow is my flagship project and serves as a personal operating system that combines productivity, document intelligence, AI memory and life management in a single platform.
 
-> Full-stack app for tasks, finance, documents, and AI learning
+> AI-powered personal operating system for tasks, finance, documents and life management
+> Built and actively used as a real-world productivity platform.
 
 **🌐 [barakzai.cloud](https://barakzai.cloud) · 💻 [Repository](https://github.com/aryanbarak/dailyflow)**
 
-**Key Features:** Tasks & Calendar · Habits & Journal · Finance Tracking · OCR & Document Intelligence · AI Summaries · AI Memory · Weekly Briefings · Flashcards · Family Management · Photos & Music Libraries
+**Key Features:** Tasks & Calendar · Habits & Journal · Finance Tracking · Bank PDF Import · OCR & Document Intelligence · AI Summaries · AI Memory · Weekly Briefings · Flashcards · Family Management
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/screenshots/dashboard.png" alt="Dashboard" width="49%" />
@@ -109,43 +109,40 @@ DailyFlow is my flagship project and serves as a personal operating system that 
 
 ---
 
-### dailyflow-ai-worker
+### Supporting Projects
 
-> Cloudflare Worker — secure Gemini AI proxy with rate limiting and JWT auth
-
-**💻 [Repository](https://github.com/aryanbarak/dailyflow-ai-worker)**  
-**Stack:** Cloudflare Workers · JavaScript · Gemini API
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [dailyflow-ai-worker](https://github.com/aryanbarak/dailyflow-ai-worker) | Secure Gemini AI proxy — rate limiting, JWT auth, model fallback | Cloudflare Workers · Gemini API |
+| [dailyflow-tutor-api-worker](https://github.com/aryanbarak/dailyflow-tutor-api-worker) | Algorithm content API — pseudocode, exam questions, DE/FA bilingual | Cloudflare Workers · JS |
 
 ---
 
-### dailyflow-tutor-api-worker
+## Architecture
 
-> Static content API for algorithm tutor — pseudocode, exam questions, DE/FA bilingual
-
-**💻 [Repository](https://github.com/aryanbarak/dailyflow-tutor-api-worker)**  
-**Stack:** Cloudflare Workers · JavaScript
+```
+barakzai.cloud  (DailyFlow)
+        │
+        ├── dailyflow-ai-worker
+        │   └── Gemini 2.5 Flash → 2.0 Flash fallback
+        │       OCR · Summary · Briefing · TTS · Translate
+        │
+        └── dailyflow-tutor-api-worker
+            └── Algorithm content (DE/FA)
+                Pseudocode · Exam · Explain
+```
 
 ---
 
 ## Certifications
 
-- ✅ Fachinformatiker Anwendungsentwicklung — IHK Hamburg (2026)
+- ✅ Fachinformatiker für Anwendungsentwicklung (IHK), 2026
 - ✅ EXIN Agile Scrum Master (2023)
 - ✅ EXIN Agile Scrum Foundation (2023)
 - ✅ TELC Deutsch B2 (2022)
 
 ---
 
-## Current Focus
-
-- AI-powered productivity systems
-- Cloudflare Workers & Edge Architecture
-- Document Intelligence & OCR
-- React + TypeScript Applications
-- Personal AI Assistant Development
-
----
-
 <div align="center">
-<sub>Open for opportunities in Germany 🇩🇪</sub>
+<sub>Built with ☕ and persistence — from Kabul to Ahrensburg. · Open for opportunities in Germany 🇩🇪</sub>
 </div>
