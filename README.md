@@ -16,7 +16,7 @@ Ahrensburg, Germany 🇩🇪
 
 Fachinformatiker Anwendungsentwicklung (IHK) focused on building full-stack applications, AI-powered productivity systems, Cloudflare-based serverless backends and desktop software.
 
-My main project is **DailyFlow** — a production app I built from scratch and use daily: React + TypeScript frontend, Supabase backend, Cloudflare Workers for AI, and Gemini for document intelligence and weekly briefings.
+My main project is **SmartFlow** — a production SaaS app I built from scratch and use daily: React + TypeScript frontend, Supabase backend, Cloudflare Workers for AI, and Gemini for document intelligence and weekly briefings.
 
 Previous experience includes:
 
@@ -24,7 +24,7 @@ Previous experience includes:
 - Owner of a Computer Training Center
 - Network Administration and IT Support
 
-- 🔭 Building: **[DailyFlow](https://barakzai.cloud)** — productivity & AI platform
+- 🔭 Building: **[SmartFlow](https://barakzai.cloud)** — AI-powered Personal Operating System
 - 📍 Location: Ahrensburg, Germany
 - 💼 Open to: Junior Software Developer · Frontend Developer · Full-Stack Developer · Application Support Engineer
 
@@ -68,41 +68,41 @@ Previous experience includes:
 
 ## Projects
 
-### DailyFlow — Productivity & AI Platform
+### SmartFlow — AI-powered Personal Operating System
 
-> AI-powered personal operating system for tasks, finance, documents and life management
-> Built and actively used as a real-world productivity platform.
+> Full-Stack SaaS for tasks, finance, documents and life management — with AI memory, OCR and automated weekly briefings.  
+> Built from scratch and actively used in production daily.
 
-**🌐 [barakzai.cloud](https://barakzai.cloud) · 💻 [Repository](https://github.com/aryanbarak/dailyflow)**
+**🌐 [barakzai.cloud](https://barakzai.cloud) · 💻 [Repository](https://github.com/aryanbarak/smartflow)**
 
 **Key Features:** Tasks & Calendar · Habits & Journal · Finance Tracking · Bank PDF Import · OCR & Document Intelligence · AI Summaries · AI Memory · Weekly Briefings · Flashcards · Family Management
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/screenshots/dashboard.png" alt="Dashboard" width="49%" />
-  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/screenshots/weekly-briefing.png" alt="Weekly Briefing" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/smartflow/main/screenshots/dashboard.png" alt="Dashboard" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/smartflow/main/screenshots/weekly-briefing.png" alt="Weekly Briefing" width="49%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/screenshots/ocr.png" alt="OCR" width="49%" />
-  <img src="https://raw.githubusercontent.com/aryanbarak/dailyflow/main/screenshots/tasks.png" alt="Tasks" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/smartflow/main/screenshots/ocr.png" alt="OCR" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/smartflow/main/screenshots/tasks.png" alt="Tasks" width="49%" />
 </p>
 
 **Stack:** React · TypeScript · Supabase · Cloudflare Workers · Gemini AI
 
 ---
 
-### FIAE Tutor Desktop
+### Algorithm Studio — Desktop Algorithm & Pseudocode Trainer
 
-> Offline desktop app for IHK FIAE exam preparation — algorithms, desk-check, AP2 exam bank
+> Cross-platform offline desktop app for algorithm training, pseudocode practice and IHK exam preparation.
 
-**💻 [Repository](https://github.com/aryanbarak/fiae-tutor-desktop)**
+**💻 [Repository](https://github.com/aryanbarak/algorithm-studio)**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryanbarak/fiae-tutor-desktop/main/screenshots/dashboard.png" alt="Dashboard" width="49%" />
-  <img src="https://raw.githubusercontent.com/aryanbarak/fiae-tutor-desktop/main/screenshots/Variants.png" alt="Variants" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/algorithm-studio/main/screenshots/dashboard.png" alt="Dashboard" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/algorithm-studio/main/screenshots/Variants.png" alt="Variants" width="49%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryanbarak/fiae-tutor-desktop/main/screenshots/practice-page.png" alt="Practice" width="49%" />
-  <img src="https://raw.githubusercontent.com/aryanbarak/fiae-tutor-desktop/main/screenshots/topic-registry.png" alt="Topic Registry" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/algorithm-studio/main/screenshots/practice-page.png" alt="Practice" width="49%" />
+  <img src="https://raw.githubusercontent.com/aryanbarak/algorithm-studio/main/screenshots/topic-registry.png" alt="Topic Registry" width="49%" />
 </p>
 
 **Stack:** React · TypeScript · Tauri · Rust
@@ -113,21 +113,21 @@ Previous experience includes:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [dailyflow-ai-worker](https://github.com/aryanbarak/dailyflow-ai-worker) | Secure Gemini AI proxy — rate limiting, JWT auth, model fallback | Cloudflare Workers · Gemini API |
-| [dailyflow-tutor-api-worker](https://github.com/aryanbarak/dailyflow-tutor-api-worker) | Algorithm content API — pseudocode, exam questions, DE/FA bilingual | Cloudflare Workers · JS |
+| [smartflow-ai-worker](https://github.com/aryanbarak/smartflow-ai-worker) | Secure Gemini AI proxy — rate limiting, JWT auth, model fallback | Cloudflare Workers · Gemini API |
+| [smartflow-tutor-api-worker](https://github.com/aryanbarak/smartflow-tutor-api-worker) | Algorithm content API — pseudocode, exam questions, DE/FA bilingual | Cloudflare Workers · JS |
 
 ---
 
 ## Architecture
 
 ```
-barakzai.cloud  (DailyFlow)
+barakzai.cloud  (SmartFlow)
         │
-        ├── dailyflow-ai-worker
+        ├── smartflow-ai-worker
         │   └── Gemini 2.5 Flash → 2.0 Flash fallback
         │       OCR · Summary · Briefing · TTS · Translate
         │
-        └── dailyflow-tutor-api-worker
+        └── smartflow-tutor-api-worker
             └── Algorithm content (DE/FA)
                 Pseudocode · Exam · Explain
 ```
